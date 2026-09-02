@@ -32,4 +32,4 @@
   conductivity = -1500.5
   rhoCp = 1.0
   residualTol = 1.0e-8
-  boundaryTypeMap = f, f, I, I, t, o, f, I
+  boundaryTypeMap = udfNeumann, udfNeumann, zeroNeumann, zeroNeumann, udfDirichlet, zeroNeumann, udfNeumann, zeroNeumann
