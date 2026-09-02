@@ -21,6 +21,7 @@
   writeControl = steps
   writeInterval = 100
   polynomialOrder = 2
+  scalars = temperature
 
 [FLUID VELOCITY]
   solver = none

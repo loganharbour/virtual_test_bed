@@ -24,6 +24,7 @@
   writeControl = steps
   writeInterval = 100
   polynomialOrder = 3
+  scalars = temperature
 
 [FLUID VELOCITY]
   viscosity = -100.0
